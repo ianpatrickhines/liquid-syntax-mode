@@ -1,6 +1,10 @@
 ## (NationBuilder) Liquid support for Sublime Text
 
-This is a fork of the [shopify-liquid](https://bitbucket.org/granteagon/shopify-liquid) syntax, which was based off of the Djaniero package for Django.
+This is a fork of the [(Siteleaf) Liquid support for Sublime Text](https://github.com/siteleaf/liquid-syntax-mode) syntax.
+
+It’s super early on, and I’ve yet to customize it much at all. Basically all I’ve done is change it to recognize .html files as Liquid, because NationBuilder uses the .html extension for it’s liquid files.
+
+I hope to eventually update it to recognize all of NationBuilder’s liquid variables as snippets, but that’s a project for a rainy day.
 
 ## Installation
 
